@@ -1,0 +1,4 @@
+2023-10-06 10:25:09,289 INFO c.e.d.c.UserController [main] User Not Found With id1
+2023-10-06 10:25:09,321 INFO c.e.d.c.UserController [main] User Not Found With Username chuongdn79
+2023-10-06 10:25:09,333 INFO c.e.d.c.UserController [main] Found user id1
+2023-10-06 10:25:09,348 INFO c.e.d.c.UserController [main] User Found With Username chuongdn79
